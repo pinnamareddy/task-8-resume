@@ -1,0 +1,650 @@
+*{
+    margin : 0px;
+    padding: 0px;
+    box-sizing: border-box;
+   
+    
+
+}
+.container{
+    height:1600px;
+    width:90%;
+    margin:0 auto;
+    
+    margin-top:30px;
+}
+.background{
+    margin-top:80px;
+    background-color: rgb(65, 58, 58);
+    width: 1370px;
+    height: 400px;
+   }
+   .background2{
+    background-color: rgb(117, 114, 113);
+    width: 1370px;
+    height: 40px;
+    position: absolute;
+    top:400px;
+  
+}
+.background1{
+    background-color: rgba(194, 167, 12, 0.979);
+    width:  550px;
+    height: 100px;
+    border-radius:10px;
+    position:absolute;
+    z-index: 4;
+    top:360px;
+    left:486px;
+}
+.name{color: rgb(59, 53, 53);
+    font-size: 45px;
+    position: absolute;
+    top:388px;
+    left:590px;
+    z-index: 5;
+}
+.rajesh{
+    width: 150px;
+    height: 150px;
+    position:absolute ;
+    top:220px;
+    left:686px;
+    border-radius: 100px;
+   z-index: 2;
+}
+.decoration-photo .circle1{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:330px;
+    left:686px;
+}
+.decoration-photo .circle2{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:339px;
+    left:691px;
+}
+.decoration-photo .circle3{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:321px;
+    left:681.5px;
+}.decoration-photo .circle4{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:311px;
+    left:678px;
+}
+.decoration-photo .circle5{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:301px;
+    left:677px;
+}.decoration-photo .circle6{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:291px;
+    left:676px;
+}.decoration-photo .circle7{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:281px;
+    left:677px;
+}.decoration-photo .circle8{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:271px;
+    left:678px;
+}
+.decoration-photo .circle9{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:262.5px;
+    left:681.5px;
+}
+.decoration-photo .circle10{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:253px;
+    left:686px;
+}
+.decoration-photo .circle11{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:244px;
+    left:692px;
+}.decoration-photo .circle12{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:236px;
+    left:698px;
+}
+.decoration-photo .circle13{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:229px;
+    left:705px;
+}.decoration-photo .circle14{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:223px;
+    left:713px;
+}.decoration-photo .circle15{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:218px;
+    left:721px;
+}.decoration-photo .circle16{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:215px;
+    left:730px;
+}
+.decoration-photo .circle17{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:213px;
+    left:740px;
+}
+.decoration-photo .circle18{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:211px;
+    left:749px;
+}
+.decoration-photo .circle19{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:211px;
+    left:759px;
+}.decoration-photo .circle20{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:211px;
+    left:769px;
+}
+.decoration-photo .circle21{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:213px;
+    left:779px;
+}.decoration-photo .circle22{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:216px;
+    left:788px;
+}.decoration-photo .circle23{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:220px;
+    left:797px;
+}.decoration-photo .circle24{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:225px;
+    left:805px;
+}
+.decoration-photo .circle25{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:231px;
+    left:812px;
+}
+.decoration-photo .circle26{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:239px;
+    left:820px;
+}
+.decoration-photo .circle27{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:246px;
+    left:826px;
+}.decoration-photo .circle28{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:256px;
+    left:830px;
+}
+.decoration-photo .circle29{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:266px;
+    left:835px;
+}.decoration-photo .circle30{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:276px;
+    left:838px;
+}.decoration-photo .circle31{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:286px;
+    left:839px;
+}.decoration-photo .circle32{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:296px;
+    left:839px;
+}.decoration-photo .circle33{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:306px;
+    left:837px;
+}
+.decoration-photo .circle34{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:316.5px;
+    left:835px;
+}
+.decoration-photo .circle35{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:326px;
+    left:832px;
+}
+.decoration-photo .circle36{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:336px;
+    left:827px;
+}.decoration-photo .circle37{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 9px;
+    height: 9px;
+    border-radius: 10px;
+    position: absolute;
+    top:344px;
+    left:819px;
+}
+.decoration-photo .circle38{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:353px;
+    left:810px;
+}.decoration-photo .circle39{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:347px;
+    left:697px;
+}.decoration-photo .circle40{ 
+    background-color: rgba(194, 167, 12, 0.979);
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    position: absolute;
+    top:353px;
+    left:706px;
+}
+.name-info{
+    color:rgb(66, 64, 64);
+    font-size : 27px;
+    position: absolute;
+    left:391.5px;
+    top:500px
+}
+.v{
+    border-left : 3px solid rgb(73, 70, 70);
+    height : 1035px;
+    position: absolute;
+    top:575px;
+    left:757px;
+}
+.h{
+    border-top : 3px solid rgb(73, 70, 70);
+    width : 1350px;
+    position: absolute;
+    top:540px;
+    left:83px;
+   
+}
+#icon{color: rgb(53, 53, 49);
+    font-size: 50px;
+    position: absolute;
+    top:590px;
+    left:83px;
+}
+.career-OBJECTIVE{
+    position: absolute;
+    top:610px;
+    left:145px;
+ }
+ .career-OBJECTIVE-data{
+    position: absolute;
+    top:665px;
+    left:135px;
+}
+#icon1{
+    font-size: 50px;
+    color: rgb(53, 53, 49);
+    position: absolute;
+    top:765px;
+    left:89px;
+}
+.skill{
+    font-size: 20px;
+    position: absolute;
+    top:775px;
+    left:150px;
+}
+.ts{color: rgb(68, 65, 65);
+    font-size: 20px;
+    position: absolute;
+    top:830px;
+    left:350px;
+}
+.sk{
+    width:600px;
+    height:30px;
+    padding :0 ;
+    position: absolute;
+    top:870px;
+    left:220px;
+  }
+  .sk .bar{
+    background-color: lightgrey;
+    display : block;border-radius: 20px;
+    width :70%;
+    height: 8px
+  }.sk .bar1{
+    background-color: lightgrey;
+    display : block;
+    width :70%;border-radius: 20px;
+    height: 8px
+  }.sk .bar2{
+    background-color: lightgrey;
+    display : block;
+    width :70%;border-radius: 20px;
+    height: 8px
+  }.sk .bar3{
+    background-color: lightgrey;
+    display : block;
+    width :70%;border-radius: 20px;
+    border-radius: 20px;
+    height: 8px
+  }
+.sk .bar .c{
+    background-color: grey;
+    display : block;
+    width :85%;
+    border-radius: 20px;
+    height: 8px
+  }.sk .bar1 .c1{
+    background-color: grey;
+    display : block;
+    width :75%;
+    border-radius: 20px;
+    height: 8px
+  }.sk .bar2 .c2{
+    background-color: grey;
+    display : block;
+    width :60%;
+    border-radius: 20px;
+    height: 8px
+  }.sk .bar3 .c3{
+    background-color: grey;
+    display : block;
+    width :85%;
+    border-radius: 20px;
+    height: 8px
+  }
+  .sk p{font-size: 18px;
+      height: 45px;
+  }
+  .ad{color: rgb(68, 65, 65);
+    font-size: 20px;
+    position: absolute;
+    top:1150px;
+    left:350px;
+}
+.adsk{
+    width:600px;
+    height:30px;
+    padding :0 ;
+    position: absolute;
+    top:1180px;
+    left:220px;
+}
+    
+
+
+  .adsk .abar{
+    background-color: lightgrey;
+    display : block;border-radius: 20px;
+    width :70%;
+    height: 8px
+  }.adsk .abar1{
+    background-color: lightgrey;
+    display : block;
+    width :70%;border-radius: 20px;
+    height: 8px
+  }.adsk .abar2{
+    background-color: lightgrey;
+    display : block;
+    width :70%;border-radius: 20px;
+    height: 8px
+  }.adsk .abar3{
+    background-color: lightgrey;
+    display : block;
+    width :70%;border-radius: 20px;
+    border-radius: 20px;
+    height: 8px
+  }
+.adsk .abar .ac{
+    background-color: grey;
+    display : block;
+    width :70%;
+    border-radius: 20px;
+    height: 8px
+  }.adsk .abar1 .ac1{
+    background-color: grey;
+    display : block;
+    width :80%;
+    border-radius: 20px;
+    height: 8px
+  }.adsk .abar2 .ac2{
+    background-color: grey;
+    display : block;
+    width :60%;
+    border-radius: 20px;
+    height: 8px
+  }.adsk .abar3 .ac3{
+    background-color: grey;
+    display : block;
+    width :85%;
+    border-radius: 20px;
+    height: 8px
+  }
+  .adsk p{font-size: 18px;
+      height: 45px;
+  }
+  .eq{ font-size: 20px;
+    position:absolute;
+    top:1500px;
+    left:150px;
+
+}
+.eq-info{
+    position: absolute;
+    top:1570px;
+    left:175px;
+
+}
+#icon3{font-size: 50px;
+    color: rgb(68, 64, 64);
+      position: absolute;
+      top:590px;
+      left:800px;
+
+  }
+  .edu-info{
+    position: absolute;
+      top:610px;
+      left:870px;
+  }
+  .edu{
+    position: absolute;
+      top:665px;
+      left:870px;
+  }
+  .pro{
+    position: absolute;
+    top:785px;
+    left:870px;
+  }
+  #icon5{color: rgb(53, 53, 49);
+    font-size: 50px;
+    position: absolute;
+    top:765px;
+    left:805px;
+}
+.pro-info{
+    
+    position: absolute;
+    top:840px;
+    left:855px;
+  
+}
+.pd{
+    
+    position: absolute;
+    top:990px;
+    left:860px;
+}#icon4{color: rgb(53, 53, 49);
+    font-size: 50px;
+    position: absolute;
+    top:970px;
+    left:805px;
+}
+.pd-info{
+    font-size: 20px;
+    padding:0 5px;
+    position: absolute;
+    top:1100px;
+    left:860px;
+  
+}
+.sign{
+    
+    position: absolute;
+    top:1600px;
+    left:1300px;
+  
+}
